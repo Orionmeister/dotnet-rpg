@@ -1,2 +1,2 @@
 # dotnet-rpg
-.Net 5 Web API with authantication and authorazation.
+Simple .Net 5 Web API with authantication and authorazation.
